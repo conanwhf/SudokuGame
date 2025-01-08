@@ -36,6 +36,8 @@
 ## 项目结构
 - `sudoku.py`: 主程序文件，包含游戏逻辑和UI实现
 - `config.py`: 配置文件，包含窗口设置、颜色配置等
+- `sudoku_algorithm.py`: 数独核心算法实现，包含生成、填充和验证逻辑
+- `ui.py`: 用户界面组件，包含自定义控件和布局管理
 
 ---
 
@@ -77,3 +79,5 @@ This is a Sudoku game implemented in Python, featuring puzzle generation and sol
 ## Project Structure
 - `sudoku.py`: Main program file containing game logic and UI implementation
 - `config.py`: Configuration file containing window settings, color schemes, etc.
+- `sudoku_algorithm.py`: Core Sudoku algorithm implementation including generation, filling and validation logic
+- `ui.py`: User interface components including custom controls and layout management
